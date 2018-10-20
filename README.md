@@ -1,2 +1,2 @@
 # splines
-A C++ spline library (nothing here yet)
+A C++ spline library (WIP, currently fails to compile)
